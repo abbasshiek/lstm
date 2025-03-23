@@ -1,0 +1,12 @@
+{
+  "name": "FPGA_hls_component_new",
+  "type": "HLS",
+  "configuration": {
+    "componentType": "HLS",
+    "configFiles": [
+      "LSTM_hls_config_new.cfg"
+    ],
+    "work_dir": "FPGA_hls_component_new"
+  },
+  "template": "empty_hls_component"
+}

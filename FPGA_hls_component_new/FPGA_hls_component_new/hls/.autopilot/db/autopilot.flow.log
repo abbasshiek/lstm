@@ -1,0 +1,1071 @@
+Execute     source -notrace -encoding utf-8 D:/xilinx/Vitis/2024.2/tps/tcl/tcl8.6/clock.tcl 
+Execute       source -encoding utf-8 D:/xilinx/Vitis/2024.2/tps/tcl/tcl8/8.5/msgcat-1.6.1.tm 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/amazon-s3/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/asn/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/base32/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/base64/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/bee/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/bench/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/bibtex/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/cache/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/cmdline/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/comm/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/control/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/counter/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/crc/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/csv/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/dns/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/docstrip/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/doctools/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/exif/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/fileutil/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/ftp/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/ftpd/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/fumagic/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/grammar_fa/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/grammar_me/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/grammar_peg/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/html/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/htmlparse/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/http/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/ident/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/inifile/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/interp/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/irc/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/javascript/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/jpeg/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/json/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/ldap/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/log/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/map/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/mapproj/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/math/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/md4/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/md5/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/md5crypt/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/mime/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/multiplexer/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/ncgi/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/nmea/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/nns/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/nntp/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/ntp/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/otp/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/page/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/pluginmgr/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/png/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/pop3/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/pop3d/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/profiler/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/rcs/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/report/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/ripemd/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/sasl/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/sha1/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/simulation/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/smtpd/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/snit/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/soundex/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/stooop/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/stringprep/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/struct/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/tar/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/term/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/textutil/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/tie/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/tiff/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/transfer/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/treeql/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/try/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/uev/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/units/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/uri/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/uuid/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/wip/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/yaml/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tk8.6/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcl8.6/http1.0/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcl8.6/opt0.4/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcl8.6/pkgs/win/thread2.8.7/pkgIndex.tcl 
+Command       ap_source done; 0.116 sec.
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/amazon-s3/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/asn/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/base32/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/base64/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/bee/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/bench/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/bibtex/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/cache/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/cmdline/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/comm/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/control/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/counter/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/crc/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/csv/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/dns/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/docstrip/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/doctools/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/exif/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/fileutil/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/ftp/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/ftpd/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/fumagic/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/grammar_fa/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/grammar_me/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/grammar_peg/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/html/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/htmlparse/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/http/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/ident/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/inifile/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/interp/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/irc/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/javascript/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/jpeg/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/json/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/ldap/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/log/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/map/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/mapproj/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/math/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/md4/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/md5/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/md5crypt/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/mime/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/multiplexer/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/ncgi/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/nmea/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/nns/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/nntp/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/ntp/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/otp/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/page/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/pluginmgr/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/png/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/pop3/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/pop3d/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/profiler/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/rcs/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/report/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/ripemd/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/sasl/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/sha1/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/simulation/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/smtpd/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/snit/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/soundex/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/stooop/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/stringprep/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/struct/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/tar/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/term/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/textutil/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/tie/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/tiff/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/transfer/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/treeql/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/try/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/uev/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/units/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/uri/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/uuid/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/wip/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/yaml/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tk8.6/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcl8.6/http1.0/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcl8.6/opt0.4/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcl8.6/pkgs/win/thread2.8.7/pkgIndex.tcl 
+Command     ap_source done; 0.241 sec.
+INFO-FLOW: Workspace C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/FPGA_hls_component_new/hls opened at Sun Mar 23 18:02:13 +0530 2025
+Execute     send_msg_by_id INFO @200-1505@%s%s default  vivado 
+INFO: [HLS 200-1505] Using default flow_target 'vivado'
+Command   open_solution done; 0.425 sec.
+Execute   apply_ini C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg 
+Execute     send_msg_by_id INFO @200-1465@%s 'syn.file=C:\Users\Abbas_Sheik\Downloads\weights.h' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(10) 
+INFO: [HLS 200-1465] Applying ini 'syn.file=C:\Users\Abbas_Sheik\Downloads\weights.h' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(10)
+Execute     add_files C:\Users\Abbas_Sheik\Downloads\weights.h 
+INFO: [HLS 200-10] Adding design file 'C:/Users/Abbas_Sheik/Downloads/weights.h' to the project
+Execute     send_msg_by_id INFO @200-1465@%s 'syn.file=C:\Users\Abbas_Sheik\Desktop\FPGA\LSTM_hls_component\lstm.cpp' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(11) 
+INFO: [HLS 200-1465] Applying ini 'syn.file=C:\Users\Abbas_Sheik\Desktop\FPGA\LSTM_hls_component\lstm.cpp' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(11)
+Execute     add_files C:\Users\Abbas_Sheik\Desktop\FPGA\LSTM_hls_component\lstm.cpp 
+INFO: [HLS 200-10] Adding design file 'C:/Users/Abbas_Sheik/Desktop/FPGA/LSTM_hls_component/lstm.cpp' to the project
+Execute     send_msg_by_id INFO @200-1465@%s 'tb.file=tb_lstm.cpp' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(12) 
+INFO: [HLS 200-1465] Applying ini 'tb.file=tb_lstm.cpp' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(12)
+Execute     add_files -tb C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/tb_lstm.cpp 
+INFO: [HLS 200-10] Adding test bench file 'C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/tb_lstm.cpp' to the project
+Execute     send_msg_by_id INFO @200-1465@%s 'flow_target=vivado' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(4) 
+INFO: [HLS 200-1465] Applying ini 'flow_target=vivado' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(4)
+Execute     send_msg_by_id INFO @200-1505@%s%s  vivado 
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+Execute     send_msg_by_id INFO @200-1465@%s 'part=xa7a15tcpg236-1I' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(1) 
+INFO: [HLS 200-1465] Applying ini 'part=xa7a15tcpg236-1I' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(1)
+Execute     set_part xa7a15tcpg236-1I 
+Execute       create_platform xa7a15tcpg236-1I -board  
+DBG:HLSDevice: Trying to load device library: D:/xilinx/Vitis/2024.2\lib\win64.o\xv_hlsvwrap.dll
+DBG:HLSDevice: first parts/arch.xml in RDI_DATADIR: D:/xilinx/Vivado/2024.2/data/parts/arch.xml
+DBG:HLSDevice: init success
+INFO: [HLS 200-1611] Setting target device to 'xa7a15t-cpg236-1I'
+Command       create_platform done; 5.707 sec.
+Execute       source D:/xilinx/Vitis/2024.2/common/technology/xilinx/common/xilinx.gen 
+Execute         source D:/xilinx/Vitis/2024.2/common/technology/xilinx/interface/plb46.gen 
+Execute         source D:/xilinx/Vitis/2024.2/common/technology/xilinx/interface/axi4.gen 
+Execute         source D:/xilinx/Vitis/2024.2/common/technology/xilinx/interface/nativeAXI4.gen 
+Execute           source D:/xilinx/Vitis/2024.2/common/technology/xilinx/interface/saxilite.gen 
+Execute         source D:/xilinx/Vitis/2024.2/common/technology/xilinx/scripts/xilinxcoregen.gen 
+Execute         source D:/xilinx/Vitis/2024.2/common/technology/xilinx/interface/XilEDKCoreGen.gen 
+Execute         source D:/xilinx/Vitis/2024.2/common/technology/xilinx/ip/dds_compiler.gen 
+Execute         source D:/xilinx/Vitis/2024.2/common/technology/xilinx/ip/util.gen 
+Execute         source D:/xilinx/Vitis/2024.2/common/technology/xilinx/ip/xfft.gen 
+Command         ap_source done; 0.214 sec.
+Execute         source D:/xilinx/Vitis/2024.2/common/technology/xilinx/ip/xfir.gen 
+Execute         source D:/xilinx/Vitis/2024.2/common/technology/xilinx/DSP48/dsp48.gen 
+Command       ap_source done; 0.598 sec.
+Execute       ap_part_info -name xa7a15t-cpg236-1I -data info 
+Execute       config_compile -quiet -complex-mul-dsp=0 
+Command     set_part done; 6.435 sec.
+Execute     send_msg_by_id INFO @200-1465@%s 'clock=10ns' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(7) 
+INFO: [HLS 200-1465] Applying ini 'clock=10ns' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(7)
+Execute     create_clock -period 10ns 
+Execute       ap_set_clock -name default -period 10 -unit ns -default=false 
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+Execute     send_msg_by_id INFO @200-1465@%s 'clock_uncertainty=1ns' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(8) 
+INFO: [HLS 200-1465] Applying ini 'clock_uncertainty=1ns' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(8)
+Execute     set_clock_uncertainty 1ns 
+Execute       ap_set_clock -name default -uncertainty 1 -unit ns 
+INFO: [SYN 201-201] Setting up clock 'default' with an uncertainty of 1ns.
+Execute     send_msg_by_id INFO @200-1465@%s 'csim.code_analyzer=1' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(9) 
+INFO: [HLS 200-1465] Applying ini 'csim.code_analyzer=1' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(9)
+Execute     config_csim -code_analyzer=1 
+Execute     send_msg_by_id INFO @200-1465@%s 'package.output.format=ip_catalog' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(5) 
+INFO: [HLS 200-1465] Applying ini 'package.output.format=ip_catalog' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(5)
+Execute     config_export -format=ip_catalog 
+Command   apply_ini done; 6.627 sec.
+Execute   apply_ini C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/FPGA_hls_component_new/hls/config.cmdline 
+Execute   ::AP::init_summary_file csim 
+Execute     AP::app_get_file_relativeroot [AP::app_get_root] {}
+Command   AP::init_summary_file done; 1.468 sec.
+Execute   csim_design 
+INFO-FLOW: Running SLX 'csim' proc: ::SLX::run_csim
+INFO-FLOW: ::SLX::run_csim failed: child process exited abnormally
+INFO-FLOW: Caught error in csim_design: Problem running csim: child process exited abnormally
+    while executing
+"error "Problem running $stage: $result""
+    (procedure "::AP::hls_slx_hook" line 55)
+    invoked from within
+"::AP::hls_slx_hook csim $config_value_dict replace_flow"
+    (procedure "ap_internal_csim_design" line 100)
+    invoked from within
+"ap_internal_csim_design "
+Command   csim_design done; error code: 2; 8.045 sec.
+Execute   close_project 
+Execute     close_solution 
+Execute       cleanup_all 
+Execute       cleanup_all 
+Execute     source -notrace -encoding utf-8 D:/xilinx/Vitis/2024.2/tps/tcl/tcl8.6/clock.tcl 
+Execute       source -encoding utf-8 D:/xilinx/Vitis/2024.2/tps/tcl/tcl8/8.5/msgcat-1.6.1.tm 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/amazon-s3/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/asn/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/base32/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/base64/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/bee/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/bench/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/bibtex/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/cache/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/cmdline/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/comm/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/control/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/counter/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/crc/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/csv/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/dns/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/docstrip/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/doctools/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/exif/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/fileutil/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/ftp/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/ftpd/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/fumagic/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/grammar_fa/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/grammar_me/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/grammar_peg/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/html/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/htmlparse/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/http/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/ident/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/inifile/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/interp/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/irc/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/javascript/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/jpeg/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/json/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/ldap/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/log/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/map/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/mapproj/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/math/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/md4/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/md5/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/md5crypt/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/mime/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/multiplexer/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/ncgi/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/nmea/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/nns/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/nntp/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/ntp/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/otp/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/page/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/pluginmgr/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/png/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/pop3/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/pop3d/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/profiler/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/rcs/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/report/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/ripemd/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/sasl/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/sha1/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/simulation/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/smtpd/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/snit/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/soundex/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/stooop/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/stringprep/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/struct/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/tar/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/term/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/textutil/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/tie/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/tiff/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/transfer/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/treeql/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/try/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/uev/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/units/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/uri/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/uuid/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/wip/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/yaml/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tk8.6/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcl8.6/http1.0/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcl8.6/opt0.4/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcl8.6/pkgs/win/thread2.8.7/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/amazon-s3/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/asn/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/base32/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/base64/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/bee/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/bench/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/bibtex/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/cache/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/cmdline/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/comm/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/control/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/counter/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/crc/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/csv/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/dns/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/docstrip/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/doctools/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/exif/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/fileutil/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/ftp/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/ftpd/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/fumagic/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/grammar_fa/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/grammar_me/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/grammar_peg/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/html/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/htmlparse/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/http/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/ident/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/inifile/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/interp/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/irc/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/javascript/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/jpeg/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/json/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/ldap/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/log/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/map/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/mapproj/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/math/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/md4/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/md5/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/md5crypt/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/mime/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/multiplexer/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/ncgi/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/nmea/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/nns/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/nntp/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/ntp/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/otp/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/page/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/pluginmgr/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/png/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/pop3/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/pop3d/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/profiler/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/rcs/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/report/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/ripemd/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/sasl/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/sha1/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/simulation/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/smtpd/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/snit/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/soundex/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/stooop/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/stringprep/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/struct/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/tar/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/term/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/textutil/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/tie/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/tiff/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/transfer/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/treeql/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/try/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/uev/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/units/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/uri/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/uuid/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/wip/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/yaml/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tk8.6/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcl8.6/http1.0/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcl8.6/opt0.4/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcl8.6/pkgs/win/thread2.8.7/pkgIndex.tcl 
+Command     ap_source done; 0.163 sec.
+INFO-FLOW: Workspace C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/FPGA_hls_component_new/hls opened at Sun Mar 23 18:03:05 +0530 2025
+Execute     send_msg_by_id INFO @200-1505@%s%s default  vivado 
+INFO: [HLS 200-1505] Using default flow_target 'vivado'
+Command   open_solution done; 0.201 sec.
+Execute   apply_ini C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg 
+Execute     send_msg_by_id INFO @200-1465@%s 'syn.file=C:\Users\Abbas_Sheik\Downloads\weights.h' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(10) 
+INFO: [HLS 200-1465] Applying ini 'syn.file=C:\Users\Abbas_Sheik\Downloads\weights.h' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(10)
+Execute     add_files C:\Users\Abbas_Sheik\Downloads\weights.h 
+INFO: [HLS 200-10] Adding design file 'C:/Users/Abbas_Sheik/Downloads/weights.h' to the project
+Execute     send_msg_by_id INFO @200-1465@%s 'syn.file=C:\Users\Abbas_Sheik\Desktop\FPGA\LSTM_hls_component\lstm.cpp' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(11) 
+INFO: [HLS 200-1465] Applying ini 'syn.file=C:\Users\Abbas_Sheik\Desktop\FPGA\LSTM_hls_component\lstm.cpp' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(11)
+Execute     add_files C:\Users\Abbas_Sheik\Desktop\FPGA\LSTM_hls_component\lstm.cpp 
+INFO: [HLS 200-10] Adding design file 'C:/Users/Abbas_Sheik/Desktop/FPGA/LSTM_hls_component/lstm.cpp' to the project
+Execute     send_msg_by_id INFO @200-1465@%s 'tb.file=tb_lstm.cpp' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(12) 
+INFO: [HLS 200-1465] Applying ini 'tb.file=tb_lstm.cpp' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(12)
+Execute     add_files -tb C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/tb_lstm.cpp 
+INFO: [HLS 200-10] Adding test bench file 'C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/tb_lstm.cpp' to the project
+Execute     send_msg_by_id INFO @200-1465@%s 'tb.file=C:\Users\Abbas_Sheik\Desktop\FPGA\LSTM_hls_component\lstm.cpp' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(13) 
+INFO: [HLS 200-1465] Applying ini 'tb.file=C:\Users\Abbas_Sheik\Desktop\FPGA\LSTM_hls_component\lstm.cpp' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(13)
+Execute     add_files -tb C:\Users\Abbas_Sheik\Desktop\FPGA\LSTM_hls_component\lstm.cpp 
+INFO: [HLS 200-10] Adding test bench file 'C:/Users/Abbas_Sheik/Desktop/FPGA/LSTM_hls_component/lstm.cpp' to the project
+Execute     send_msg_by_id INFO @200-1465@%s 'flow_target=vivado' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(4) 
+INFO: [HLS 200-1465] Applying ini 'flow_target=vivado' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(4)
+Execute     send_msg_by_id INFO @200-1505@%s%s  vivado 
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+Execute     send_msg_by_id INFO @200-1465@%s 'part=xa7a15tcpg236-1I' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(1) 
+INFO: [HLS 200-1465] Applying ini 'part=xa7a15tcpg236-1I' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(1)
+Execute     set_part xa7a15tcpg236-1I 
+Execute       create_platform xa7a15tcpg236-1I -board  
+DBG:HLSDevice: Trying to load device library: D:/xilinx/Vitis/2024.2\lib\win64.o\xv_hlsvwrap.dll
+DBG:HLSDevice: first parts/arch.xml in RDI_DATADIR: D:/xilinx/Vivado/2024.2/data/parts/arch.xml
+DBG:HLSDevice: init success
+INFO: [HLS 200-1611] Setting target device to 'xa7a15t-cpg236-1I'
+Command       create_platform done; 2.29 sec.
+Execute       source D:/xilinx/Vitis/2024.2/common/technology/xilinx/common/xilinx.gen 
+Execute         source D:/xilinx/Vitis/2024.2/common/technology/xilinx/interface/plb46.gen 
+Execute         source D:/xilinx/Vitis/2024.2/common/technology/xilinx/interface/axi4.gen 
+Execute         source D:/xilinx/Vitis/2024.2/common/technology/xilinx/interface/nativeAXI4.gen 
+Execute           source D:/xilinx/Vitis/2024.2/common/technology/xilinx/interface/saxilite.gen 
+Execute         source D:/xilinx/Vitis/2024.2/common/technology/xilinx/scripts/xilinxcoregen.gen 
+Execute         source D:/xilinx/Vitis/2024.2/common/technology/xilinx/interface/XilEDKCoreGen.gen 
+Execute         source D:/xilinx/Vitis/2024.2/common/technology/xilinx/ip/dds_compiler.gen 
+Execute         source D:/xilinx/Vitis/2024.2/common/technology/xilinx/ip/util.gen 
+Execute         source D:/xilinx/Vitis/2024.2/common/technology/xilinx/ip/xfft.gen 
+Command         ap_source done; 0.106 sec.
+Execute         source D:/xilinx/Vitis/2024.2/common/technology/xilinx/ip/xfir.gen 
+Execute         source D:/xilinx/Vitis/2024.2/common/technology/xilinx/DSP48/dsp48.gen 
+Command       ap_source done; 0.276 sec.
+Execute       ap_part_info -name xa7a15t-cpg236-1I -data info 
+Execute       config_compile -quiet -complex-mul-dsp=0 
+Command     set_part done; 2.634 sec.
+Execute     send_msg_by_id INFO @200-1465@%s 'clock=10ns' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(7) 
+INFO: [HLS 200-1465] Applying ini 'clock=10ns' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(7)
+Execute     create_clock -period 10ns 
+Execute       ap_set_clock -name default -period 10 -unit ns -default=false 
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+Execute     send_msg_by_id INFO @200-1465@%s 'clock_uncertainty=1ns' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(8) 
+INFO: [HLS 200-1465] Applying ini 'clock_uncertainty=1ns' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(8)
+Execute     set_clock_uncertainty 1ns 
+Execute       ap_set_clock -name default -uncertainty 1 -unit ns 
+INFO: [SYN 201-201] Setting up clock 'default' with an uncertainty of 1ns.
+Execute     send_msg_by_id INFO @200-1465@%s 'csim.code_analyzer=1' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(9) 
+INFO: [HLS 200-1465] Applying ini 'csim.code_analyzer=1' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(9)
+Execute     config_csim -code_analyzer=1 
+Execute     send_msg_by_id INFO @200-1465@%s 'package.output.format=ip_catalog' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(5) 
+INFO: [HLS 200-1465] Applying ini 'package.output.format=ip_catalog' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(5)
+Execute     config_export -format=ip_catalog 
+Command   apply_ini done; 2.728 sec.
+Execute   apply_ini C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/FPGA_hls_component_new/hls/config.cmdline 
+Execute   ::AP::init_summary_file csim 
+Execute     AP::app_get_file_relativeroot [AP::app_get_root] {}
+Command   AP::init_summary_file done; 0.185 sec.
+Execute   csim_design 
+INFO-FLOW: Running SLX 'csim' proc: ::SLX::run_csim
+INFO-FLOW: ::SLX::run_csim failed: child process exited abnormally
+INFO-FLOW: Caught error in csim_design: Problem running csim: child process exited abnormally
+    while executing
+"error "Problem running $stage: $result""
+    (procedure "::AP::hls_slx_hook" line 55)
+    invoked from within
+"::AP::hls_slx_hook csim $config_value_dict replace_flow"
+    (procedure "ap_internal_csim_design" line 100)
+    invoked from within
+"ap_internal_csim_design "
+Command   csim_design done; error code: 2; 5.368 sec.
+Execute   close_project 
+Execute     close_solution 
+Execute       cleanup_all 
+Execute       cleanup_all 
+Execute     source -notrace -encoding utf-8 D:/xilinx/Vitis/2024.2/tps/tcl/tcl8.6/clock.tcl 
+Execute       source -encoding utf-8 D:/xilinx/Vitis/2024.2/tps/tcl/tcl8/8.5/msgcat-1.6.1.tm 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/amazon-s3/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/asn/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/base32/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/base64/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/bee/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/bench/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/bibtex/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/cache/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/cmdline/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/comm/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/control/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/counter/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/crc/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/csv/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/dns/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/docstrip/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/doctools/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/exif/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/fileutil/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/ftp/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/ftpd/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/fumagic/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/grammar_fa/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/grammar_me/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/grammar_peg/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/html/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/htmlparse/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/http/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/ident/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/inifile/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/interp/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/irc/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/javascript/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/jpeg/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/json/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/ldap/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/log/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/map/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/mapproj/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/math/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/md4/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/md5/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/md5crypt/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/mime/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/multiplexer/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/ncgi/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/nmea/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/nns/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/nntp/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/ntp/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/otp/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/page/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/pluginmgr/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/png/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/pop3/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/pop3d/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/profiler/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/rcs/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/report/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/ripemd/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/sasl/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/sha1/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/simulation/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/smtpd/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/snit/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/soundex/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/stooop/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/stringprep/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/struct/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/tar/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/term/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/textutil/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/tie/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/tiff/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/transfer/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/treeql/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/try/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/uev/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/units/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/uri/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/uuid/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/wip/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/yaml/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tk8.6/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcl8.6/http1.0/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcl8.6/opt0.4/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcl8.6/pkgs/win/thread2.8.7/pkgIndex.tcl 
+Command       ap_source done; 0.183 sec.
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/amazon-s3/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/asn/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/base32/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/base64/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/bee/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/bench/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/bibtex/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/cache/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/cmdline/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/comm/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/control/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/counter/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/crc/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/csv/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/dns/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/docstrip/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/doctools/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/exif/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/fileutil/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/ftp/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/ftpd/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/fumagic/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/grammar_fa/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/grammar_me/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/grammar_peg/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/html/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/htmlparse/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/http/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/ident/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/inifile/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/interp/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/irc/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/javascript/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/jpeg/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/json/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/ldap/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/log/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/map/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/mapproj/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/math/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/md4/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/md5/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/md5crypt/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/mime/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/multiplexer/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/ncgi/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/nmea/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/nns/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/nntp/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/ntp/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/otp/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/page/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/pluginmgr/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/png/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/pop3/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/pop3d/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/profiler/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/rcs/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/report/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/ripemd/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/sasl/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/sha1/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/simulation/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/smtpd/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/snit/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/soundex/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/stooop/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/stringprep/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/struct/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/tar/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/term/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/textutil/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/tie/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/tiff/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/transfer/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/treeql/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/try/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/uev/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/units/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/uri/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/uuid/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/wip/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/yaml/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tk8.6/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcl8.6/http1.0/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcl8.6/opt0.4/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcl8.6/pkgs/win/thread2.8.7/pkgIndex.tcl 
+Command     ap_source done; 0.471 sec.
+INFO-FLOW: Workspace C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/FPGA_hls_component_new/hls opened at Sun Mar 23 22:19:16 +0530 2025
+Execute     send_msg_by_id INFO @200-1505@%s%s default  vivado 
+INFO: [HLS 200-1505] Using default flow_target 'vivado'
+Command   open_solution done; 0.732 sec.
+Execute   apply_ini C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg 
+Execute     send_msg_by_id INFO @200-1465@%s 'syn.file=C:\Users\Abbas_Sheik\Downloads\weights.h' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(10) 
+INFO: [HLS 200-1465] Applying ini 'syn.file=C:\Users\Abbas_Sheik\Downloads\weights.h' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(10)
+Execute     add_files C:\Users\Abbas_Sheik\Downloads\weights.h 
+INFO: [HLS 200-10] Adding design file 'C:/Users/Abbas_Sheik/Downloads/weights.h' to the project
+Execute     send_msg_by_id INFO @200-1465@%s 'syn.file=C:\Users\Abbas_Sheik\Desktop\FPGA\LSTM_hls_component\lstm.cpp' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(11) 
+INFO: [HLS 200-1465] Applying ini 'syn.file=C:\Users\Abbas_Sheik\Desktop\FPGA\LSTM_hls_component\lstm.cpp' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(11)
+Execute     add_files C:\Users\Abbas_Sheik\Desktop\FPGA\LSTM_hls_component\lstm.cpp 
+INFO: [HLS 200-10] Adding design file 'C:/Users/Abbas_Sheik/Desktop/FPGA/LSTM_hls_component/lstm.cpp' to the project
+Execute     send_msg_by_id INFO @200-1465@%s 'tb.file=tb_lstm.cpp' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(12) 
+INFO: [HLS 200-1465] Applying ini 'tb.file=tb_lstm.cpp' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(12)
+Execute     add_files -tb C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/tb_lstm.cpp 
+INFO: [HLS 200-10] Adding test bench file 'C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/tb_lstm.cpp' to the project
+Execute     send_msg_by_id INFO @200-1465@%s 'tb.file=C:\Users\Abbas_Sheik\Desktop\FPGA\LSTM_hls_component\lstm.cpp' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(13) 
+INFO: [HLS 200-1465] Applying ini 'tb.file=C:\Users\Abbas_Sheik\Desktop\FPGA\LSTM_hls_component\lstm.cpp' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(13)
+Execute     add_files -tb C:\Users\Abbas_Sheik\Desktop\FPGA\LSTM_hls_component\lstm.cpp 
+INFO: [HLS 200-10] Adding test bench file 'C:/Users/Abbas_Sheik/Desktop/FPGA/LSTM_hls_component/lstm.cpp' to the project
+Execute     send_msg_by_id INFO @200-1465@%s 'flow_target=vivado' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(4) 
+INFO: [HLS 200-1465] Applying ini 'flow_target=vivado' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(4)
+Execute     send_msg_by_id INFO @200-1505@%s%s  vivado 
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+Execute     send_msg_by_id INFO @200-1465@%s 'part=xa7a15tcpg236-1I' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(1) 
+INFO: [HLS 200-1465] Applying ini 'part=xa7a15tcpg236-1I' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(1)
+Execute     set_part xa7a15tcpg236-1I 
+Execute       create_platform xa7a15tcpg236-1I -board  
+DBG:HLSDevice: Trying to load device library: D:/xilinx/Vitis/2024.2\lib\win64.o\xv_hlsvwrap.dll
+DBG:HLSDevice: first parts/arch.xml in RDI_DATADIR: D:/xilinx/Vivado/2024.2/data/parts/arch.xml
+DBG:HLSDevice: init success
+INFO: [HLS 200-1611] Setting target device to 'xa7a15t-cpg236-1I'
+Command       create_platform done; 6.325 sec.
+Execute       source D:/xilinx/Vitis/2024.2/common/technology/xilinx/common/xilinx.gen 
+Execute         source D:/xilinx/Vitis/2024.2/common/technology/xilinx/interface/plb46.gen 
+Execute         source D:/xilinx/Vitis/2024.2/common/technology/xilinx/interface/axi4.gen 
+Execute         source D:/xilinx/Vitis/2024.2/common/technology/xilinx/interface/nativeAXI4.gen 
+Execute           source D:/xilinx/Vitis/2024.2/common/technology/xilinx/interface/saxilite.gen 
+Execute         source D:/xilinx/Vitis/2024.2/common/technology/xilinx/scripts/xilinxcoregen.gen 
+Execute         source D:/xilinx/Vitis/2024.2/common/technology/xilinx/interface/XilEDKCoreGen.gen 
+Execute         source D:/xilinx/Vitis/2024.2/common/technology/xilinx/ip/dds_compiler.gen 
+Execute         source D:/xilinx/Vitis/2024.2/common/technology/xilinx/ip/util.gen 
+Execute         source D:/xilinx/Vitis/2024.2/common/technology/xilinx/ip/xfft.gen 
+Command         ap_source done; 0.204 sec.
+Execute         source D:/xilinx/Vitis/2024.2/common/technology/xilinx/ip/xfir.gen 
+Execute         source D:/xilinx/Vitis/2024.2/common/technology/xilinx/DSP48/dsp48.gen 
+Command       ap_source done; 0.538 sec.
+Execute       ap_part_info -name xa7a15t-cpg236-1I -data info 
+Execute       config_compile -quiet -complex-mul-dsp=0 
+Command     set_part done; 6.973 sec.
+Execute     send_msg_by_id INFO @200-1465@%s 'clock=10ns' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(7) 
+INFO: [HLS 200-1465] Applying ini 'clock=10ns' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(7)
+Execute     create_clock -period 10ns 
+Execute       ap_set_clock -name default -period 10 -unit ns -default=false 
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+Execute     send_msg_by_id INFO @200-1465@%s 'clock_uncertainty=1ns' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(8) 
+INFO: [HLS 200-1465] Applying ini 'clock_uncertainty=1ns' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(8)
+Execute     set_clock_uncertainty 1ns 
+Execute       ap_set_clock -name default -uncertainty 1 -unit ns 
+INFO: [SYN 201-201] Setting up clock 'default' with an uncertainty of 1ns.
+Execute     send_msg_by_id INFO @200-1465@%s 'csim.code_analyzer=1' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(9) 
+INFO: [HLS 200-1465] Applying ini 'csim.code_analyzer=1' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(9)
+Execute     config_csim -code_analyzer=1 
+Execute     send_msg_by_id INFO @200-1465@%s 'package.output.format=ip_catalog' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(5) 
+INFO: [HLS 200-1465] Applying ini 'package.output.format=ip_catalog' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(5)
+Execute     config_export -format=ip_catalog 
+Command   apply_ini done; 7.181 sec.
+Execute   apply_ini C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/FPGA_hls_component_new/hls/config.cmdline 
+Execute   ::AP::init_summary_file csim 
+Execute     AP::app_get_file_relativeroot [AP::app_get_root] {}
+Command   AP::init_summary_file done; 0.21 sec.
+Execute   csim_design 
+INFO-FLOW: Running SLX 'csim' proc: ::SLX::run_csim
+INFO-FLOW: ::SLX::run_csim failed: child process exited abnormally
+INFO-FLOW: Caught error in csim_design: Problem running csim: child process exited abnormally
+    while executing
+"error "Problem running $stage: $result""
+    (procedure "::AP::hls_slx_hook" line 55)
+    invoked from within
+"::AP::hls_slx_hook csim $config_value_dict replace_flow"
+    (procedure "ap_internal_csim_design" line 100)
+    invoked from within
+"ap_internal_csim_design "
+Command   csim_design done; error code: 2; 9.223 sec.
+Execute   close_project 
+Execute     close_solution 
+Execute       cleanup_all 
+Execute       cleanup_all 
+Execute     source -notrace -encoding utf-8 D:/xilinx/Vitis/2024.2/tps/tcl/tcl8.6/clock.tcl 
+Execute       source -encoding utf-8 D:/xilinx/Vitis/2024.2/tps/tcl/tcl8/8.5/msgcat-1.6.1.tm 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/amazon-s3/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/asn/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/base32/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/base64/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/bee/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/bench/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/bibtex/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/cache/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/cmdline/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/comm/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/control/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/counter/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/crc/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/csv/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/dns/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/docstrip/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/doctools/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/exif/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/fileutil/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/ftp/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/ftpd/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/fumagic/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/grammar_fa/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/grammar_me/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/grammar_peg/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/html/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/htmlparse/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/http/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/ident/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/inifile/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/interp/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/irc/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/javascript/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/jpeg/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/json/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/ldap/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/log/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/map/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/mapproj/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/math/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/md4/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/md5/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/md5crypt/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/mime/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/multiplexer/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/ncgi/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/nmea/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/nns/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/nntp/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/ntp/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/otp/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/page/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/pluginmgr/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/png/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/pop3/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/pop3d/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/profiler/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/rcs/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/report/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/ripemd/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/sasl/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/sha1/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/simulation/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/smtpd/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/snit/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/soundex/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/stooop/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/stringprep/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/struct/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/tar/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/term/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/textutil/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/tie/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/tiff/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/transfer/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/treeql/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/try/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/uev/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/units/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/uri/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/uuid/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/wip/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/yaml/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tk8.6/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcl8.6/http1.0/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcl8.6/opt0.4/pkgIndex.tcl 
+Execute         source D:/xilinx/Vitis/2024.2/tps/tcl/tcl8.6/pkgs/win/thread2.8.7/pkgIndex.tcl 
+Command       ap_source done; 0.183 sec.
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/amazon-s3/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/asn/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/base32/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/base64/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/bee/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/bench/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/bibtex/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/cache/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/cmdline/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/comm/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/control/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/counter/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/crc/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/csv/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/dns/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/docstrip/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/doctools/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/exif/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/fileutil/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/ftp/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/ftpd/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/fumagic/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/grammar_fa/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/grammar_me/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/grammar_peg/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/html/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/htmlparse/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/http/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/ident/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/inifile/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/interp/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/irc/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/javascript/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/jpeg/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/json/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/ldap/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/log/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/map/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/mapproj/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/math/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/md4/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/md5/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/md5crypt/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/mime/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/multiplexer/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/ncgi/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/nmea/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/nns/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/nntp/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/ntp/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/otp/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/page/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/pluginmgr/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/png/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/pop3/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/pop3d/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/profiler/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/rcs/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/report/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/ripemd/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/sasl/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/sha1/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/simulation/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/smtpd/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/snit/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/soundex/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/stooop/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/stringprep/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/struct/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/tar/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/term/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/textutil/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/tie/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/tiff/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/transfer/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/treeql/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/try/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/uev/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/units/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/uri/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/uuid/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/wip/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/yaml/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcllib1.11.1/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tk8.6/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcl8.6/http1.0/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcl8.6/opt0.4/pkgIndex.tcl 
+Execute       source D:/xilinx/Vitis/2024.2/tps/tcl/tcl8.6/pkgs/win/thread2.8.7/pkgIndex.tcl 
+Command     ap_source done; 0.398 sec.
+INFO-FLOW: Workspace C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/FPGA_hls_component_new/hls opened at Sun Mar 23 22:42:10 +0530 2025
+Execute     send_msg_by_id INFO @200-1505@%s%s default  vivado 
+INFO: [HLS 200-1505] Using default flow_target 'vivado'
+Command   open_solution done; 0.595 sec.
+Execute   apply_ini C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg 
+Execute     send_msg_by_id INFO @200-1465@%s 'syn.file=C:\Users\Abbas_Sheik\Downloads\weights.h' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(10) 
+INFO: [HLS 200-1465] Applying ini 'syn.file=C:\Users\Abbas_Sheik\Downloads\weights.h' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(10)
+Execute     add_files C:\Users\Abbas_Sheik\Downloads\weights.h 
+INFO: [HLS 200-10] Adding design file 'C:/Users/Abbas_Sheik/Downloads/weights.h' to the project
+Execute     send_msg_by_id INFO @200-1465@%s 'syn.file=C:\Users\Abbas_Sheik\Desktop\FPGA\LSTM_hls_component\lstm.cpp' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(11) 
+INFO: [HLS 200-1465] Applying ini 'syn.file=C:\Users\Abbas_Sheik\Desktop\FPGA\LSTM_hls_component\lstm.cpp' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(11)
+Execute     add_files C:\Users\Abbas_Sheik\Desktop\FPGA\LSTM_hls_component\lstm.cpp 
+INFO: [HLS 200-10] Adding design file 'C:/Users/Abbas_Sheik/Desktop/FPGA/LSTM_hls_component/lstm.cpp' to the project
+Execute     send_msg_by_id INFO @200-1465@%s 'tb.file=tb_lstm.cpp' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(12) 
+INFO: [HLS 200-1465] Applying ini 'tb.file=tb_lstm.cpp' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(12)
+Execute     add_files -tb C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/tb_lstm.cpp 
+INFO: [HLS 200-10] Adding test bench file 'C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/tb_lstm.cpp' to the project
+Execute     send_msg_by_id INFO @200-1465@%s 'tb.file=C:\Users\Abbas_Sheik\Desktop\FPGA\LSTM_hls_component\lstm.cpp' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(13) 
+INFO: [HLS 200-1465] Applying ini 'tb.file=C:\Users\Abbas_Sheik\Desktop\FPGA\LSTM_hls_component\lstm.cpp' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(13)
+Execute     add_files -tb C:\Users\Abbas_Sheik\Desktop\FPGA\LSTM_hls_component\lstm.cpp 
+INFO: [HLS 200-10] Adding test bench file 'C:/Users/Abbas_Sheik/Desktop/FPGA/LSTM_hls_component/lstm.cpp' to the project
+Execute     send_msg_by_id INFO @200-1465@%s 'flow_target=vivado' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(4) 
+INFO: [HLS 200-1465] Applying ini 'flow_target=vivado' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(4)
+Execute     send_msg_by_id INFO @200-1505@%s%s  vivado 
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+Execute     send_msg_by_id INFO @200-1465@%s 'part=xa7a15tcpg236-1I' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(1) 
+INFO: [HLS 200-1465] Applying ini 'part=xa7a15tcpg236-1I' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(1)
+Execute     set_part xa7a15tcpg236-1I 
+Execute       create_platform xa7a15tcpg236-1I -board  
+DBG:HLSDevice: Trying to load device library: D:/xilinx/Vitis/2024.2\lib\win64.o\xv_hlsvwrap.dll
+DBG:HLSDevice: first parts/arch.xml in RDI_DATADIR: D:/xilinx/Vivado/2024.2/data/parts/arch.xml
+DBG:HLSDevice: init success
+INFO: [HLS 200-1611] Setting target device to 'xa7a15t-cpg236-1I'
+Command       create_platform done; 6.351 sec.
+Execute       source D:/xilinx/Vitis/2024.2/common/technology/xilinx/common/xilinx.gen 
+Execute         source D:/xilinx/Vitis/2024.2/common/technology/xilinx/interface/plb46.gen 
+Execute         source D:/xilinx/Vitis/2024.2/common/technology/xilinx/interface/axi4.gen 
+Execute         source D:/xilinx/Vitis/2024.2/common/technology/xilinx/interface/nativeAXI4.gen 
+Execute           source D:/xilinx/Vitis/2024.2/common/technology/xilinx/interface/saxilite.gen 
+Execute         source D:/xilinx/Vitis/2024.2/common/technology/xilinx/scripts/xilinxcoregen.gen 
+Execute         source D:/xilinx/Vitis/2024.2/common/technology/xilinx/interface/XilEDKCoreGen.gen 
+Execute         source D:/xilinx/Vitis/2024.2/common/technology/xilinx/ip/dds_compiler.gen 
+Execute         source D:/xilinx/Vitis/2024.2/common/technology/xilinx/ip/util.gen 
+Execute         source D:/xilinx/Vitis/2024.2/common/technology/xilinx/ip/xfft.gen 
+Command         ap_source done; 0.238 sec.
+Execute         source D:/xilinx/Vitis/2024.2/common/technology/xilinx/ip/xfir.gen 
+Execute         source D:/xilinx/Vitis/2024.2/common/technology/xilinx/DSP48/dsp48.gen 
+Command       ap_source done; 0.592 sec.
+Execute       ap_part_info -name xa7a15t-cpg236-1I -data info 
+Execute       config_compile -quiet -complex-mul-dsp=0 
+Command     set_part done; 7.331 sec.
+Execute     send_msg_by_id INFO @200-1465@%s 'clock=10ns' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(7) 
+INFO: [HLS 200-1465] Applying ini 'clock=10ns' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(7)
+Execute     create_clock -period 10ns 
+Execute       ap_set_clock -name default -period 10 -unit ns -default=false 
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+Execute     send_msg_by_id INFO @200-1465@%s 'clock_uncertainty=1ns' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(8) 
+INFO: [HLS 200-1465] Applying ini 'clock_uncertainty=1ns' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(8)
+Execute     set_clock_uncertainty 1ns 
+Execute       ap_set_clock -name default -uncertainty 1 -unit ns 
+INFO: [SYN 201-201] Setting up clock 'default' with an uncertainty of 1ns.
+Execute     send_msg_by_id INFO @200-1465@%s 'csim.code_analyzer=1' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(9) 
+INFO: [HLS 200-1465] Applying ini 'csim.code_analyzer=1' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(9)
+Execute     config_csim -code_analyzer=1 
+Execute     send_msg_by_id INFO @200-1465@%s 'package.output.format=ip_catalog' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(5) 
+INFO: [HLS 200-1465] Applying ini 'package.output.format=ip_catalog' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(5)
+Execute     config_export -format=ip_catalog 
+Command   apply_ini done; 7.506 sec.
+Execute   apply_ini C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/FPGA_hls_component_new/hls/config.cmdline 
+Execute   ::AP::init_summary_file csim 
+Execute     AP::app_get_file_relativeroot [AP::app_get_root] {}
+Command   AP::init_summary_file done; 0.188 sec.
+Execute   csim_design 
+INFO-FLOW: Running SLX 'csim' proc: ::SLX::run_csim
+INFO-FLOW: ::SLX::run_csim failed: child process exited abnormally
+INFO-FLOW: Caught error in csim_design: Problem running csim: child process exited abnormally
+    while executing
+"error "Problem running $stage: $result""
+    (procedure "::AP::hls_slx_hook" line 55)
+    invoked from within
+"::AP::hls_slx_hook csim $config_value_dict replace_flow"
+    (procedure "ap_internal_csim_design" line 100)
+    invoked from within
+"ap_internal_csim_design "
+Command   csim_design done; error code: 2; 9.926 sec.
+Execute   close_project 
+Execute     close_solution 
+Execute       cleanup_all 
+Execute       cleanup_all 

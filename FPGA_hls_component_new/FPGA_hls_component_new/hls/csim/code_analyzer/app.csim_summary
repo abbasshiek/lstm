@@ -1,0 +1,66 @@
+<ENTRY>
+{
+ "thisFile": "C:/Users\\Abbas_Sheik\\Desktop\\vlsi_lstm\\FPGA_hls_component_new\\FPGA_hls_component_new\\hls\\csim\\code_analyzer\\app.csim_summary",
+ "connectId": "",
+ "serverToken": "",
+ "timestamp": "0"
+}
+</ENTRY>
+<ENTRY>
+{
+ "type": "ET_FlowMetaData",
+ "dateTimestamp": "Sun Mar 23 22:42:28 2025",
+ "timestampMillis": "1742749948137",
+ "buildSummary": {
+  "hardwarePlatform": "",
+  "hardwareDsa": "",
+  "platformDirectory": "",
+  "runtime": "",
+  "systemConfig": "",
+  "flow": "BF_RUN",
+  "target": "TT_HLS_C_SIM",
+  "kernels": [],
+  "toolVersion": ""
+ }
+}
+</ENTRY>
+<ENTRY>
+{
+ "type": "ET_CmdStep",
+ "dateTimestamp": "Sun Mar 23 22:42:28 2025",
+ "timestampMillis": "1742749948154",
+ "buildStep": {
+  "cmdId": "ff6cf4e4-0809-11f0-84c6-204ef652aab2",
+  "name": "vitis_c++",
+  "logFile": "",
+  "commandLine": "vitis_c++ code_analyzer",
+  "args": [
+   "code_analyzer"
+  ],
+  "iniFiles": [],
+  "cwd": ""
+ }
+}
+</ENTRY>
+<ENTRY>
+{
+ "type": "ET_Status",
+ "dateTimestamp": "Sun Mar 23 22:42:28 2025",
+ "timestampMillis": "1742749948155",
+ "status": {
+  "cmdId": "ff6cf4e4-0809-11f0-84c6-204ef652aab2",
+  "state": "CS_RUNNING"
+ }
+}
+</ENTRY>
+<ENTRY>
+{
+ "type": "ET_Status",
+ "dateTimestamp": "Sun Mar 23 22:42:28 2025",
+ "timestampMillis": "1742749948158",
+ "status": {
+  "cmdId": "ff6cf4e4-0809-11f0-84c6-204ef652aab2",
+  "state": "CS_FAILED"
+ }
+}
+</ENTRY>

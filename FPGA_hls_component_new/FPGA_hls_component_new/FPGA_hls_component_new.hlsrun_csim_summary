@@ -1,0 +1,157 @@
+<ENTRY>
+{
+ "thisFile": "C:/Users\\Abbas_Sheik\\Desktop\\vlsi_lstm\\FPGA_hls_component_new\\FPGA_hls_component_new\\FPGA_hls_component_new.hlsrun_csim_summary",
+ "connectId": "",
+ "serverToken": "",
+ "timestamp": "0"
+}
+</ENTRY>
+<ENTRY>
+{
+ "type": "ET_CmdStep",
+ "dateTimestamp": "03/23/25 22:41:53",
+ "timestampMillis": "1742749913979",
+ "buildStep": {
+  "cmdId": "06e78d1a-b4ca-456d-9337-ed5965615a52",
+  "name": "vitis-run",
+  "logFile": "C:/Users\\Abbas_Sheik\\Desktop\\vlsi_lstm\\FPGA_hls_component_new\\FPGA_hls_component_new\\logs\\FPGA_hls_component_new.steps.log",
+  "commandLine": "D:/xilinx/Vitis/2024.2/bin/unwrapped/win64.o/vitis-run.exe  --mode hls --csim --config C:\\Users\\Abbas_Sheik\\Desktop\\vlsi_lstm\\FPGA_hls_component_new\\LSTM_hls_config_new.cfg --work_dir FPGA_hls_component_new ",
+  "args": [
+   "--mode",
+   "hls",
+   "--csim",
+   "--config",
+   "C:\\Users\\Abbas_Sheik\\Desktop\\vlsi_lstm\\FPGA_hls_component_new\\LSTM_hls_config_new.cfg",
+   "--work_dir",
+   "FPGA_hls_component_new"
+  ],
+  "iniFiles": [],
+  "cwd": "C:\\Users\\Abbas_Sheik\\Desktop\\vlsi_lstm\\FPGA_hls_component_new"
+ }
+}
+</ENTRY>
+<ENTRY>
+{
+ "type": "ET_Status",
+ "dateTimestamp": "03/23/25 22:41:53",
+ "timestampMillis": "1742749913992",
+ "status": {
+  "cmdId": "06e78d1a-b4ca-456d-9337-ed5965615a52",
+  "state": "CS_RUNNING"
+ }
+}
+</ENTRY>
+<ENTRY>
+{
+ "type": "ET_FlowMetaData",
+ "dateTimestamp": "03/23/25 22:42:18",
+ "timestampMillis": "1742749938821",
+ "buildSummary": {
+  "hardwarePlatform": "",
+  "hardwareDsa": "",
+  "platformDirectory": "",
+  "runtime": "",
+  "systemConfig": "",
+  "flow": "BF_RUN",
+  "target": "TT_HLS_C_SIM",
+  "kernels": [
+   {
+    "base": {
+     "type": "KERNEL",
+     "name": "",
+     "file": "",
+     "reports": [],
+     "uuid": ""
+    },
+    "sources": [
+     "C:/Users\\Abbas_Sheik\\Downloads\\weights.h",
+     "C:/Users\\Abbas_Sheik\\Desktop\\FPGA\\LSTM_hls_component\\lstm.cpp"
+    ],
+    "psSources": [],
+    "cuNames": [],
+    "type": "HLS",
+    "frequency": 0,
+    "freqUnits": ""
+   }
+  ],
+  "toolVersion": "2024.2"
+ }
+}
+</ENTRY>
+<ENTRY>
+{
+ "type": "ET_SubCmdStep",
+ "dateTimestamp": "03/23/25 22:42:18",
+ "timestampMillis": "1742749938842",
+ "buildStep": {
+  "cmdId": "348d5fd5-152b-44cf-9298-1c7d9f7ac5df",
+  "name": "",
+  "logFile": "C:/Users\\Abbas_Sheik\\Desktop\\vlsi_lstm\\FPGA_hls_component_new\\FPGA_hls_component_new\\hls\\hls.log",
+  "commandLine": "",
+  "args": [],
+  "iniFiles": [],
+  "cwd": "C:\\Users\\Abbas_Sheik\\Desktop\\vlsi_lstm\\FPGA_hls_component_new"
+ }
+}
+</ENTRY>
+<ENTRY>
+{
+ "type": "ET_Status",
+ "dateTimestamp": "03/23/25 22:42:18",
+ "timestampMillis": "1742749938845",
+ "status": {
+  "cmdId": "348d5fd5-152b-44cf-9298-1c7d9f7ac5df",
+  "state": "CS_RUNNING"
+ }
+}
+</ENTRY>
+<ENTRY>
+{
+ "type": "ET_Status",
+ "dateTimestamp": "03/23/25 22:42:28",
+ "timestampMillis": "1742749948771",
+ "status": {
+  "cmdId": "348d5fd5-152b-44cf-9298-1c7d9f7ac5df",
+  "state": "CS_PASSED"
+ }
+}
+</ENTRY>
+<ENTRY>
+{
+ "type": "ET_Status",
+ "dateTimestamp": "03/23/25 22:42:29",
+ "timestampMillis": "1742749949778",
+ "status": {
+  "cmdId": "06e78d1a-b4ca-456d-9337-ed5965615a52",
+  "state": "CS_FAILED"
+ }
+}
+</ENTRY>
+<ENTRY>
+{
+ "type": "ET_Report",
+ "dateTimestamp": "03/23/25 22:42:29",
+ "timestampMillis": "1742749949814",
+ "report": {
+  "path": "",
+  "name": "",
+  "fileType": "HTML",
+  "reportType": "GLOBAL_RULECHECK_GUIDANCE",
+  "cmdId": ""
+ }
+}
+</ENTRY>
+<ENTRY>
+{
+ "type": "ET_Report",
+ "dateTimestamp": "03/23/25 22:42:29",
+ "timestampMillis": "1742749949818",
+ "report": {
+  "path": "",
+  "name": "",
+  "fileType": "BINARY_PROTOBUF",
+  "reportType": "GLOBAL_RULECHECK_GUIDANCE",
+  "cmdId": ""
+ }
+}
+</ENTRY>

@@ -1,0 +1,26 @@
+  **** HLS Build v2024.2 5238294
+INFO: [HLS 200-2005] Using work_dir C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/FPGA_hls_component_new 
+INFO: [HLS 200-1505] Using default flow_target 'vivado'
+Resolution: For help on HLS 200-1505 see docs.xilinx.com/access/sources/dita/topic?Doc_Version=2024.2%20English&url=ug1448-hls-guidance&resourceid=200-1505.html
+INFO: [HLS 200-1465] Applying ini 'syn.file=C:\Users\Abbas_Sheik\Downloads\weights.h' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(10)
+INFO: [HLS 200-10] Adding design file 'C:/Users/Abbas_Sheik/Downloads/weights.h' to the project
+INFO: [HLS 200-1465] Applying ini 'syn.file=C:\Users\Abbas_Sheik\Desktop\FPGA\LSTM_hls_component\lstm.cpp' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(11)
+INFO: [HLS 200-10] Adding design file 'C:/Users/Abbas_Sheik/Desktop/FPGA/LSTM_hls_component/lstm.cpp' to the project
+INFO: [HLS 200-1465] Applying ini 'tb.file=tb_lstm.cpp' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(12)
+INFO: [HLS 200-10] Adding test bench file 'C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/tb_lstm.cpp' to the project
+INFO: [HLS 200-1465] Applying ini 'flow_target=vivado' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(4)
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+Resolution: For help on HLS 200-1505 see docs.xilinx.com/access/sources/dita/topic?Doc_Version=2024.2%20English&url=ug1448-hls-guidance&resourceid=200-1505.html
+INFO: [HLS 200-1465] Applying ini 'part=xa7a15tcpg236-1I' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(1)
+INFO: [HLS 200-1611] Setting target device to 'xa7a15t-cpg236-1I'
+INFO: [HLS 200-1465] Applying ini 'clock=10ns' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(7)
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1465] Applying ini 'clock_uncertainty=1ns' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(8)
+INFO: [SYN 201-201] Setting up clock 'default' with an uncertainty of 1ns.
+INFO: [HLS 200-1465] Applying ini 'csim.code_analyzer=1' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(9)
+INFO: [HLS 200-1465] Applying ini 'package.output.format=ip_catalog' from C:/Users/Abbas_Sheik/Desktop/vlsi_lstm/FPGA_hls_component_new/LSTM_hls_config_new.cfg(5)
+INFO: [SIM 211-200] Executing Code Analyzer instead of classic HLS C simulation
+slxcmd:0:0: error: No top-level hardware function has been defined
+ERROR: [SIM 211-200] Code Analyzer execution failed. Consider running the classic C simulation instead by disabling the hls.csim.code_analyzer option in the config file.
+ERROR: Problem running csim: child process exited abnormally
+INFO: [HLS 200-112] Total CPU user time: 4 seconds. Total CPU system time: 2 seconds. Total elapsed time: 21.869 seconds; peak allocated memory: 161.781 MB.

@@ -1,0 +1,100 @@
+03/23/25 18:02:00: Running xcd server. This server was built by gradle.
+03/23/25 18:02:00: Server was asked to start on port: '56967'
+03/23/25 18:02:00: Server is using token UUID: '1691a476-73eb-483a-adb9-0de66c7ee30d'
+03/23/25 18:02:00: SESSION_MGR: creating session with session uuid: '6d04a3e9-ade5-4ab9-8d63-1f78fcd2ec76' and name 'default'
+03/23/25 18:02:00: Attempting to start server on port '56967'
+03/23/25 18:02:00: Running Dispatch Server
+03/23/25 18:02:00: Version 2.2.0
+03/23/25 18:02:00: Dispatch Server: Accepted socket connection from client
+03/23/25 18:02:00: Starting Socket connection
+03/23/25 18:02:00: EXCHANGE_TOKEN received, server token: 1691a476-73eb-483a-adb9-0de66c7ee30d, passed token: 1691a476-73eb-483a-adb9-0de66c7ee30d
+03/23/25 18:02:01: DISPATCH_HANDLER: Adding handler from function makeHandler in library xv_system_diagram
+03/23/25 18:02:01: SESSION_MGR: creating session with session uuid: 'ff0ca62c-6eb8-4728-a9b3-e22c042dc2a2' and name 'vitis-run_compile_FPGA_hls_component_new'
+03/23/25 18:02:01: KERNEL_SVC: creating session with uuid: 'ff0ca62c-6eb8-4728-a9b3-e22c042dc2a2' and name 'vitis-run_compile_FPGA_hls_component_new'
+03/23/25 18:02:01: GUIDANCE_SMGR: creating guidance session with uuid: 'ff0ca62c-6eb8-4728-a9b3-e22c042dc2a2' and name 'vitis-run_compile_FPGA_hls_component_new'
+03/23/25 18:02:01: SYSTEM_DIAGRAM: creating session with uuid: 'ff0ca62c-6eb8-4728-a9b3-e22c042dc2a2' and name 'vitis-run_compile_FPGA_hls_component_new'
+03/23/25 18:02:23: Dispatch Server: Accepted socket connection from client
+03/23/25 18:02:23: Starting Socket connection
+03/23/25 18:02:32: SESSION_MGR: closing session for UUID 'ff0ca62c-6eb8-4728-a9b3-e22c042dc2a2' with name 'vitis-run_compile_FPGA_hls_component_new'
+03/23/25 18:02:32: KERNEL_SVC: closing session for UUID 'ff0ca62c-6eb8-4728-a9b3-e22c042dc2a2' with name 'vitis-run_compile_FPGA_hls_component_new'
+03/23/25 18:02:32: GUIDANCE_SMGR: closing session for UUID 'ff0ca62c-6eb8-4728-a9b3-e22c042dc2a2' with name 'vitis-run_compile_FPGA_hls_component_new'
+03/23/25 18:02:33: SYSTEM_DIAGRAM: closing session for UUID 'ff0ca62c-6eb8-4728-a9b3-e22c042dc2a2' with name 'vitis-run_compile_FPGA_hls_component_new'
+03/23/25 18:02:33: STOP_SERVER received, server token: 1691a476-73eb-483a-adb9-0de66c7ee30d, passed token: 1691a476-73eb-483a-adb9-0de66c7ee30d
+03/23/25 18:02:33: Socket received request to stop server.
+03/23/25 18:02:33: Dispatch Server: do_await_stop
+03/23/25 18:02:33: SERVER: destructor for server bound to port 56967
+03/23/25 18:02:58: Running xcd server. This server was built by gradle.
+03/23/25 18:02:58: Server was asked to start on port: '56981'
+03/23/25 18:02:58: Server is using token UUID: 'a19cedb5-1d94-4aba-afc5-e8fcc49215a4'
+03/23/25 18:02:58: SESSION_MGR: creating session with session uuid: '6d04a3e9-ade5-4ab9-8d63-1f78fcd2ec76' and name 'default'
+03/23/25 18:02:58: Attempting to start server on port '56981'
+03/23/25 18:02:58: Running Dispatch Server
+03/23/25 18:02:58: Version 2.2.0
+03/23/25 18:02:59: Dispatch Server: Accepted socket connection from client
+03/23/25 18:02:59: Starting Socket connection
+03/23/25 18:02:59: EXCHANGE_TOKEN received, server token: a19cedb5-1d94-4aba-afc5-e8fcc49215a4, passed token: a19cedb5-1d94-4aba-afc5-e8fcc49215a4
+03/23/25 18:02:59: DISPATCH_HANDLER: Adding handler from function makeHandler in library xv_system_diagram
+03/23/25 18:02:59: SESSION_MGR: creating session with session uuid: '825a1411-67e4-4992-a9b5-98ad2329daf7' and name 'vitis-run_compile_FPGA_hls_component_new'
+03/23/25 18:02:59: KERNEL_SVC: creating session with uuid: '825a1411-67e4-4992-a9b5-98ad2329daf7' and name 'vitis-run_compile_FPGA_hls_component_new'
+03/23/25 18:02:59: GUIDANCE_SMGR: creating guidance session with uuid: '825a1411-67e4-4992-a9b5-98ad2329daf7' and name 'vitis-run_compile_FPGA_hls_component_new'
+03/23/25 18:02:59: SYSTEM_DIAGRAM: creating session with uuid: '825a1411-67e4-4992-a9b5-98ad2329daf7' and name 'vitis-run_compile_FPGA_hls_component_new'
+03/23/25 18:03:08: Dispatch Server: Accepted socket connection from client
+03/23/25 18:03:08: Starting Socket connection
+03/23/25 18:03:14: SESSION_MGR: closing session for UUID '825a1411-67e4-4992-a9b5-98ad2329daf7' with name 'vitis-run_compile_FPGA_hls_component_new'
+03/23/25 18:03:14: KERNEL_SVC: closing session for UUID '825a1411-67e4-4992-a9b5-98ad2329daf7' with name 'vitis-run_compile_FPGA_hls_component_new'
+03/23/25 18:03:14: GUIDANCE_SMGR: closing session for UUID '825a1411-67e4-4992-a9b5-98ad2329daf7' with name 'vitis-run_compile_FPGA_hls_component_new'
+03/23/25 18:03:14: SYSTEM_DIAGRAM: closing session for UUID '825a1411-67e4-4992-a9b5-98ad2329daf7' with name 'vitis-run_compile_FPGA_hls_component_new'
+03/23/25 18:03:14: STOP_SERVER received, server token: a19cedb5-1d94-4aba-afc5-e8fcc49215a4, passed token: a19cedb5-1d94-4aba-afc5-e8fcc49215a4
+03/23/25 18:03:14: Socket received request to stop server.
+03/23/25 18:03:14: Dispatch Server: do_await_stop
+03/23/25 18:03:14: SERVER: destructor for server bound to port 56981
+03/23/25 22:19:01: Running xcd server. This server was built by gradle.
+03/23/25 22:19:01: Server was asked to start on port: '62194'
+03/23/25 22:19:01: Server is using token UUID: 'a92a9b15-f436-4226-bd63-9c7b9744dd4e'
+03/23/25 22:19:01: SESSION_MGR: creating session with session uuid: '6d04a3e9-ade5-4ab9-8d63-1f78fcd2ec76' and name 'default'
+03/23/25 22:19:01: Attempting to start server on port '62194'
+03/23/25 22:19:01: Running Dispatch Server
+03/23/25 22:19:01: Version 2.2.0
+03/23/25 22:19:01: Dispatch Server: Accepted socket connection from client
+03/23/25 22:19:01: Starting Socket connection
+03/23/25 22:19:01: EXCHANGE_TOKEN received, server token: a92a9b15-f436-4226-bd63-9c7b9744dd4e, passed token: a92a9b15-f436-4226-bd63-9c7b9744dd4e
+03/23/25 22:19:02: DISPATCH_HANDLER: Adding handler from function makeHandler in library xv_system_diagram
+03/23/25 22:19:02: SESSION_MGR: creating session with session uuid: '75670163-d228-4d20-9285-5b516d774453' and name 'vitis-run_compile_FPGA_hls_component_new'
+03/23/25 22:19:02: KERNEL_SVC: creating session with uuid: '75670163-d228-4d20-9285-5b516d774453' and name 'vitis-run_compile_FPGA_hls_component_new'
+03/23/25 22:19:02: GUIDANCE_SMGR: creating guidance session with uuid: '75670163-d228-4d20-9285-5b516d774453' and name 'vitis-run_compile_FPGA_hls_component_new'
+03/23/25 22:19:02: SYSTEM_DIAGRAM: creating session with uuid: '75670163-d228-4d20-9285-5b516d774453' and name 'vitis-run_compile_FPGA_hls_component_new'
+03/23/25 22:19:23: Dispatch Server: Accepted socket connection from client
+03/23/25 22:19:23: Starting Socket connection
+03/23/25 22:19:34: SESSION_MGR: closing session for UUID '75670163-d228-4d20-9285-5b516d774453' with name 'vitis-run_compile_FPGA_hls_component_new'
+03/23/25 22:19:34: KERNEL_SVC: closing session for UUID '75670163-d228-4d20-9285-5b516d774453' with name 'vitis-run_compile_FPGA_hls_component_new'
+03/23/25 22:19:34: GUIDANCE_SMGR: closing session for UUID '75670163-d228-4d20-9285-5b516d774453' with name 'vitis-run_compile_FPGA_hls_component_new'
+03/23/25 22:19:34: SYSTEM_DIAGRAM: closing session for UUID '75670163-d228-4d20-9285-5b516d774453' with name 'vitis-run_compile_FPGA_hls_component_new'
+03/23/25 22:19:34: STOP_SERVER received, server token: a92a9b15-f436-4226-bd63-9c7b9744dd4e, passed token: a92a9b15-f436-4226-bd63-9c7b9744dd4e
+03/23/25 22:19:34: Socket received request to stop server.
+03/23/25 22:19:34: Dispatch Server: do_await_stop
+03/23/25 22:19:34: SERVER: destructor for server bound to port 62194
+03/23/25 22:41:53: Running xcd server. This server was built by gradle.
+03/23/25 22:41:53: Server was asked to start on port: '62380'
+03/23/25 22:41:53: Server is using token UUID: '02da7c04-5262-4311-bec0-dc3d0414353c'
+03/23/25 22:41:53: SESSION_MGR: creating session with session uuid: '6d04a3e9-ade5-4ab9-8d63-1f78fcd2ec76' and name 'default'
+03/23/25 22:41:53: Attempting to start server on port '62380'
+03/23/25 22:41:53: Running Dispatch Server
+03/23/25 22:41:53: Version 2.2.0
+03/23/25 22:41:53: Dispatch Server: Accepted socket connection from client
+03/23/25 22:41:53: Starting Socket connection
+03/23/25 22:41:53: EXCHANGE_TOKEN received, server token: 02da7c04-5262-4311-bec0-dc3d0414353c, passed token: 02da7c04-5262-4311-bec0-dc3d0414353c
+03/23/25 22:41:54: DISPATCH_HANDLER: Adding handler from function makeHandler in library xv_system_diagram
+03/23/25 22:41:54: SESSION_MGR: creating session with session uuid: 'ea608e42-a0e9-41b6-a3d5-7ce407779d42' and name 'vitis-run_compile_FPGA_hls_component_new'
+03/23/25 22:41:54: KERNEL_SVC: creating session with uuid: 'ea608e42-a0e9-41b6-a3d5-7ce407779d42' and name 'vitis-run_compile_FPGA_hls_component_new'
+03/23/25 22:41:54: GUIDANCE_SMGR: creating guidance session with uuid: 'ea608e42-a0e9-41b6-a3d5-7ce407779d42' and name 'vitis-run_compile_FPGA_hls_component_new'
+03/23/25 22:41:54: SYSTEM_DIAGRAM: creating session with uuid: 'ea608e42-a0e9-41b6-a3d5-7ce407779d42' and name 'vitis-run_compile_FPGA_hls_component_new'
+03/23/25 22:42:18: Dispatch Server: Accepted socket connection from client
+03/23/25 22:42:18: Starting Socket connection
+03/23/25 22:42:29: SESSION_MGR: closing session for UUID 'ea608e42-a0e9-41b6-a3d5-7ce407779d42' with name 'vitis-run_compile_FPGA_hls_component_new'
+03/23/25 22:42:29: KERNEL_SVC: closing session for UUID 'ea608e42-a0e9-41b6-a3d5-7ce407779d42' with name 'vitis-run_compile_FPGA_hls_component_new'
+03/23/25 22:42:29: GUIDANCE_SMGR: closing session for UUID 'ea608e42-a0e9-41b6-a3d5-7ce407779d42' with name 'vitis-run_compile_FPGA_hls_component_new'
+03/23/25 22:42:29: SYSTEM_DIAGRAM: closing session for UUID 'ea608e42-a0e9-41b6-a3d5-7ce407779d42' with name 'vitis-run_compile_FPGA_hls_component_new'
+03/23/25 22:42:29: STOP_SERVER received, server token: 02da7c04-5262-4311-bec0-dc3d0414353c, passed token: 02da7c04-5262-4311-bec0-dc3d0414353c
+03/23/25 22:42:29: Socket received request to stop server.
+03/23/25 22:42:29: Dispatch Server: do_await_stop
+03/23/25 22:42:29: SERVER: destructor for server bound to port 62380
